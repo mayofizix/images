@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glaucoma</folder>
+	<filename>Glaucoma_047.png</filename>
+	<path>C:\Users\AIYESIMI O. OLONIYO\Desktop\Project\glaucoma\Glaucoma_047.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glaucoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>91</ymin>
+			<xmax>267</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

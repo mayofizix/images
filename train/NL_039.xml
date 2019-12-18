@@ -1,0 +1,26 @@
+<annotation>
+	<folder>healthy_eye</folder>
+	<filename>NL_039.png</filename>
+	<path>C:\Users\AIYESIMI O. OLONIYO\Desktop\Project\healthy_eye\NL_039.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>healthy_eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>92</ymin>
+			<xmax>236</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

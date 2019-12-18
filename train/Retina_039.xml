@@ -1,0 +1,26 @@
+<annotation>
+	<folder>retina_disease</folder>
+	<filename>Retina_039.png</filename>
+	<path>C:\Users\AIYESIMI O. OLONIYO\Desktop\Project\retina_disease\Retina_039.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>retina_disease</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>105</ymin>
+			<xmax>267</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

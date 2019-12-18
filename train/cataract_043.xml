@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cataract</folder>
+	<filename>cataract_043.png</filename>
+	<path>C:/Users/AIYESIMI O. OLONIYO/Desktop/Project/cataract/cataract_043.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cataract</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>83</ymin>
+			<xmax>265</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
